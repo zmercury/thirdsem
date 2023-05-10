@@ -2,13 +2,13 @@
 
 ### April
 
-|Date|Topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Link|
+|Date|Topic|Link|
 |---|:-:|---|
 |April&nbsp;30| Basic HTML Sturcture| [Click Here](./Notes/01_April/001_April30/)|
 
 ### May
 
-|Date|Topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Link|
+|Date|Topic |Link|
 |---|:-:|---|
 |May&nbsp;1| HTML Headings | [Click Here](./Notes/02_May/001_May1/)|
 |May&nbsp;2| HTML Lists | [Click Here](/Notes/02_May/002_May2/)|
