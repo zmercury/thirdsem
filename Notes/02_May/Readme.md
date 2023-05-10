@@ -1,8 +1,5 @@
-# Third Semester Notes
-
 |Date|Topic|Link|
 |---|---|---|
-|April&nbsp;30| Basic HTML Sturcture| [Click Here](./Notes/01_April/001_April30/)|
 |May&nbsp;1| HTML Headings | [Click Here](./Notes/02_May/001_May1/)|
 |May&nbsp;2| HTML Lists | [Click Here](/Notes/02_May/002_May2/)|
 |May&nbsp;3| HTML Text Formatting | [Click Here](./Notes/02_May/003_May3/)|
